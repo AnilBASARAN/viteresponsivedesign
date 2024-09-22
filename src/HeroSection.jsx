@@ -2,7 +2,7 @@ const HeroSection =()=>{
     return (
         <div className="flex justify-center" >
 
-            <div className="w-full max-w-5xl flex flex-col-reverse md:flex-row px-4 justify-center items-center border border-rose-500 py-32" >
+            <div className="w-full max-w-5xl flex flex-col-reverse md:flex-row px-4 justify-center items-center py-32" >
 
             
                 <div className="text-violet-800 text-4xl md:text-5xl font-ubuntu font-medium max-w-[450px]">

@@ -2,7 +2,7 @@ import FeatureItem from "./FeatureItem";
 
 const FeatureSection =()=>{
     return (
-        <div className="flex justify-center items-center p-8 m-8" >
+        <div className="flex justify-center " >
             <div className="w-full max-w-5xl flex flex-col justify-center items-center" >
 
             <div className=" text-3xl font-ubuntu text-violet-800 " >Proudly dissapointing since 2015</div>
